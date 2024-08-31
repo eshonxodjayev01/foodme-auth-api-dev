@@ -8,7 +8,7 @@ SECRET_KEY = 'django-insecure-6v2e0tt1=(fx-rj*s9s)+1=x(mc8f_8!)m22476n17t42h4%w&
 
 DEBUG = True
 
-HOSTS = 'ikromjon.pythonanywhere.com'
+HOSTS = 'eshonxodjayev07.pythonanywhere.com'
 
 CSRF_TRUSTED_ORIGINS = [f"https://{HOSTS}"]
 
